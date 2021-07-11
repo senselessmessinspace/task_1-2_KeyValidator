@@ -1,16 +1,16 @@
-# Отчёт о тестировании <Название приложения>
+# Отчёт о тестировании приложения KeyValidator
 
 ## Краткое описание
 
-11.07.2021 было проведено тестирование документации,  приложения <название приложения>.
+11.07.2021 было проведено тестирование документации, smoke-тестирование приложения KeyValidator.
 
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* []()
-* []()
-* []()
-* []()
+* [Действия при некорректной устаноке OpenJDK не описаны в интрукции](https://github.com/senselessmessinspace/task_1-2_KeyValidator/issues/1)
+* [Запуск программы KeyValidator в инструкции описан не полностью](https://github.com/senselessmessinspace/task_1-2_KeyValidator/issues/2)
+* [Валидные ключи после запуска программы KeyValidator не валидируются](https://github.com/senselessmessinspace/task_1-2_KeyValidator/issues/3)
+* [Невалидные ключи после запуска программы KeyValidator валидируются](https://github.com/senselessmessinspace/task_1-2_KeyValidator/issues/4)
 
 ## Описание процесса тестирования
 
